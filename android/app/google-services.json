@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "10481233103",
+    "project_id": "archi-brew-crew",
+    "storage_bucket": "archi-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10481233103:android:0cdad0a815e9a54ab95bba",
+        "android_client_info": {
+          "package_name": "com.archishmanghosh.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10481233103-tea335cdfp70ctq9ch3jnkm5mddqkjqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAUB0xLdj_bU6olxCAhU8W432nba-xqnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10481233103-tea335cdfp70ctq9ch3jnkm5mddqkjqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
