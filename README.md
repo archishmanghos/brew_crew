@@ -1,16 +1,17 @@
-# brew_crew
+This is how the sign-in page looks like:
 
-A new Flutter project.
+![Sign in page](https://user-images.githubusercontent.com/69011842/116773313-60164d00-aa72-11eb-8cd0-50b1d672810a.jpeg)
 
-## Getting Started
+After, sign-in, there's a shot loading time, which looks like this:
 
-This project is a starting point for a Flutter application.
+![Loading page](https://user-images.githubusercontent.com/69011842/116773339-8a680a80-aa72-11eb-9f33-09c0aeea23ca.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
+After, a user has successfully, they are welcomed to a homepage, with a initial crew member name which they can entirely customise in the settings panel:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Settings to adjust coffee preference](https://user-images.githubusercontent.com/69011842/116773375-acfa2380-aa72-11eb-9a4a-a2ebb3517333.jpeg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+And after the user has changed his preferences, his home page should look like this:
+
+![Home page](https://user-images.githubusercontent.com/69011842/116773394-ca2ef200-aa72-11eb-96ff-90a3858e6422.jpeg)
+
+Thanks for caryying along! This is not an original project and has largely been inspired by thenetninja aka ShaunJP's youtube channel videos. The link to his github repo is https://github.com/iamshaunjp/flutter-firebase/tree/master
